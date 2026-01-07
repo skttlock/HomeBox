@@ -13,11 +13,24 @@ This is a list of the software to be used/provided in HomeBox. It is separated i
 ## Software List
 
 ### User
-- Dashboard - Dashy
-- Photo Gallery - Immich
-- Office Suite - ~~CryptDrive~~ NextCloud Office
-- File Manager - NextCloud Files
-- Genealogy - GrampsWeb OR GeneWeb
+1. Main Apps
+    - Dashboard - Dashy
+    - Photo Gallery - Immich
+    - Office Suite - ~~CryptDrive~~ NextCloud Office
+    - File Manager - NextCloud Files
+2. Optional Apps
+    - Digital Library - Calibre
+    - Genealogy - GrampsWeb OR GeneWeb
+    - Medical Record Management - Mere Medical OR FastenHealth
+    - Password Manager
+    - Smart Home Automation
+    - Media Server
+    - Document Management
+    - VPN?
+    - Security Camera NVR?
+    - Personal Git hosting?
+    - Household/Recipe Management? - Grocy/Mealie?
+    - Farm Management? - farmOS
 
 ### Admin
 
