@@ -9,3 +9,5 @@ There are two components: the service and the product.
 The service is the installation of the device, setup of the software, and continuing support of the customer.
 
 The product is the hardware, currently an upgraded Lenovo ThinkCenter m710q, with the preconfigured software.
+
+Find the configuration [here](https://github.com/skttlock/homebox-nixos-config).
