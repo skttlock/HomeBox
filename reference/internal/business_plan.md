@@ -70,27 +70,7 @@ Phase 1 MVP launches hyperlocally (single city block), validating unit economics
 
 ### Software Stack (Standardized)
 
-**Base System**:
-- NixOS (stable channel) with declarative configuration
-- Docker
-- Automated daily backups with atomic rollback capability
-- Web Dashboard via Dashy
-
-**Core Services**:
-<!-- - Nextcloud (file sync, calendar, contacts) -->
-<!-- - Jellyfin (media streaming) -->
-- Pi-hole (ad blocking, DNS)
-<!-- - Home Assistant (smart home integration) -->
-<!-- - Vaultwarden (password management) -->
-- CryptPad (office suite)
-- Immich (photo management and backup)
-
-**Optional Add-ons** (one-click installation):
-<!-- - Plex Media Server -->
-<!-- - Paperless-ngx (document management)  -->
-<!-- - Wireguard VPN -->
-<!-- - Frigate (security camera NVR) -->
-- Custom applications per customer request
+- See `software_list.md`.
 
 ## Customer Support Framework
 

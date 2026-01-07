@@ -78,36 +78,7 @@
 
 ## Software Stack (Standardized)
 
-### Base System
-- **OS**: NixOS (stable channel)
-- **Container platform**: Docker + Docker Compose
-- **Management interface**: Portainer Community Edition
-- **Remote access**: Tailscale mesh networking
-- **Backup system**: Automated daily backups to external drive
-
-### Core Applications
-1. **Nextcloud** - File sync, calendar, contacts
-2. **Jellyfin** - Media streaming server
-3. **Pi-hole** - Network-wide ad blocking and DNS
-4. **Home Assistant** - Smart home automation hub
-5. **Vaultwarden** - Password manager (Bitwarden compatible)
-6. **Immich** - Photo management and backup
-
-### Optional Applications (One-click install)
-- Plex Media Server
-- Paperless-ngx (document management)
-- Wireguard VPN server
-- Gitea (personal Git hosting)
-- Monitoring stack (Grafana/Prometheus)
-- Frigate (security camera NVR)
-
-### Software Selection Criteria
-- **Mature projects**: 3+ years active development
-- **Large user base**: 10,000+ active installations
-- **Docker support**: Official or well-maintained images
-- **Web interfaces**: No command-line user interaction
-- **Declarative configuration**: Works well with NixOS
-- **Strong backup/restore**: Critical for reliability
+See software_list.md
 
 ## Installation Procedures
 
@@ -126,7 +97,7 @@
 
 2. **Configuration** (30 min)
    - Set up user accounts and passwords
-   - Configure basic services (Nextcloud, Jellyfin)
+   - Configure basic services
    - Set up backup schedules
    - Test remote access (if applicable)
 
