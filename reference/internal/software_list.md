@@ -16,15 +16,15 @@ This is a list of the software to be used/provided in HomeBox. It is separated i
 1. Main Apps
     - Dashboard - Dashy
     - Photo Gallery - Immich
-    - Office Suite - ~~CryptDrive~~ NextCloud Office
-    - File Manager - NextCloud Files
+    - Office Suite - OnlyOffice
+    - File Manager - FileBrowser
 2. Optional Apps
     - Digital Library - Calibre
     - Genealogy - GrampsWeb OR GeneWeb
     - Medical Record Management - Mere Medical OR FastenHealth
     - Password Manager
     - Smart Home Automation
-    - Media Server
+    - Media Server - JellyFin
     - Document Management
     - VPN?
     - Security Camera NVR?
